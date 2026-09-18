@@ -557,8 +557,8 @@ with gr.Blocks(
             </p>
 
             <p>
-                Developed by <strong>Parth</strong> |
-                Roll No. <strong>241504</strong>
+                Developed by <strong>Aryan</strong> |
+                Roll No. <strong>241542</strong>
             </p>
 
             <p>
